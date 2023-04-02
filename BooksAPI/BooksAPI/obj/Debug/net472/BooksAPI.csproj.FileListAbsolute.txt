@@ -1,0 +1,310 @@
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\app.config
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\appsettings.Development.json
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\appsettings.json
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.exe.config
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.deps.json
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.exe
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.pdb
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Design.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Localization.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\dotnet-aspnet-codegenerator-design.exe
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Newtonsoft.Json.Bson.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\NuGet.Frameworks.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Remotion.Linq.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Buffers.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.AttributedModel.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Convention.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Hosting.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Runtime.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.TypedParts.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Data.SqlClient.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Interactive.Async.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Memory.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Permissions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.AssemblyReference.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.SuggestedBindingRedirects.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.exe.config
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.AssemblyInfoInputs.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.AssemblyInfo.cs
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.CoreCompileInputs.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorAssemblyInfo.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorAssemblyInfo.cs
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorTargetAssemblyInfo.cache
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.CopyComplete
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.exe
+E:\Faculty\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.pdb
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
+E:\Faculty\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\app.config
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\appsettings.Development.json
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\appsettings.json
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.exe.config
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.deps.json
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.exe
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\BooksAPI.pdb
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Design.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Localization.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\dotnet-aspnet-codegenerator-design.exe
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Newtonsoft.Json.Bson.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\NuGet.Frameworks.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Remotion.Linq.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Buffers.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.AttributedModel.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Convention.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Hosting.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.Runtime.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Composition.TypedParts.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Data.SqlClient.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Interactive.Async.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Memory.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Permissions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.AssemblyReference.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.SuggestedBindingRedirects.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.exe.config
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.AssemblyInfoInputs.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.AssemblyInfo.cs
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.CoreCompileInputs.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorAssemblyInfo.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorAssemblyInfo.cs
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.RazorTargetAssemblyInfo.cache
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.csproj.CopyComplete
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.exe
+E:\Angular Course\angularBooksDB\BooksAPI\BooksAPI\obj\Debug\net472\BooksAPI.pdb
